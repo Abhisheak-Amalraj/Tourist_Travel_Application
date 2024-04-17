@@ -44,8 +44,8 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBipTX_oRlZ0d9AagvN7IFAiAyQGIAvUVg',
-    appId: '1:840153173984:web:9612f7927a20bb62582585',
+    apiKey: '#',
+    appId: '#',
     messagingSenderId: '840153173984',
     projectId: 'authtravel-7749d',
     authDomain: 'authtravel-7749d.firebaseapp.com',
@@ -53,16 +53,16 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBqDS4vMmbzOu7lLKIiy32dPx5Iy6aIx88',
-    appId: '1:840153173984:android:ccc50f86d9555cda582585',
+    apiKey: '#',
+    appId: '#',
     messagingSenderId: '840153173984',
     projectId: 'authtravel-7749d',
     storageBucket: 'authtravel-7749d.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCfQovNjNuLNV_tScRTL-w_fsEYgwm37YU',
-    appId: '1:840153173984:ios:149210b0bd8c041e582585',
+    apiKey: '#',
+    appId: '#',
     messagingSenderId: '840153173984',
     projectId: 'authtravel-7749d',
     storageBucket: 'authtravel-7749d.appspot.com',
@@ -71,12 +71,12 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCfQovNjNuLNV_tScRTL-w_fsEYgwm37YU',
-    appId: '1:840153173984:ios:149210b0bd8c041e582585',
+    apiKey: '#',
+    appId: '#',
     messagingSenderId: '840153173984',
     projectId: 'authtravel-7749d',
     storageBucket: 'authtravel-7749d.appspot.com',
-    iosClientId: '840153173984-npdmdc04hpbag667nufiglm3fmeltr8a.apps.googleusercontent.com',
+    iosClientId: '840153173984-npdmdc04hpbag667nufiglm3fmeltr8a.apps.googleusercontent.co',
     iosBundleId: 'com.example.yttravel',
   );
 }
